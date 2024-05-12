@@ -1,4 +1,4 @@
-# Learning Laravel with Vue Bootcamp
+# Learning Laravel with Inertia (Vue.js)
 
 This repository documents my journey of learning Laravel with Inertia (Vue.js) through the bootcamp provided by Laravel.
 
